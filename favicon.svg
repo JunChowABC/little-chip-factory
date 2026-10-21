@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>小小薯片厂</title>
+  <rect x="3" y="3" width="58" height="58" rx="17" fill="#87d4f5" stroke="#493224" stroke-width="3"/>
+  <path d="m19 14 5 2 5-2 6 2 5-2 5 2-1 10 4 23-5 2-6-2-6 2-6-2-6 2 1-24Z" fill="#ffca36" stroke="#493224" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M20 23h24M20 45h27" stroke="#e19725" stroke-width="3"/>
+  <ellipse cx="32" cy="34" rx="10" ry="8" transform="rotate(-22 32 34)" fill="#fff3b4" stroke="#493224" stroke-width="2.5"/>
+  <path d="m27 34 6-4m-3 8 7-5" fill="none" stroke="#dfae42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M37 21c1-7 6-10 11-9 0 6-4 10-11 9Z" fill="#71b85a" stroke="#493224" stroke-width="2.5" stroke-linejoin="round"/>
+</svg>
